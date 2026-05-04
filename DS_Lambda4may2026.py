@@ -10,3 +10,5 @@ print(var(5))
 
 p = lambda pp:pp*pp
 print(p(2))
+var = lambda x,y:[x+y]
+print(var(4,5))
